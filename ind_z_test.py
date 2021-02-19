@@ -5,14 +5,6 @@ Created on Sun Nov 15 22:42:19 2020
 @author: adogan
 """
 
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Nov  7 23:41:26 2020
-
-@author: adoga
-"""
-
-
 # t-test for dependent samples
 from math import sqrt
 from numpy.random import seed
